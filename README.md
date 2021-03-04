@@ -7,8 +7,8 @@ Make Capslock Great Again!
 - macOS with [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 
 ## Features
-- Post ESCAPE if CAPSLOCK is pressed. 
-- Post CAPSLOCK if ESCAPE is pressed.
+- Post Escape if Capslock is pressed. 
+- Post Capslock if Escape is pressed.
 - Bind Capslock + HJKL to arrow keys. 
 
 ## Usage
