@@ -8,7 +8,8 @@ Make Capslock Great Again!
 
 ## Features
 - Post ESCAPE if CAPSLOCK is pressed. 
-- Post CAPSLOCK if ESCAPE is pressed. 
+- Post CAPSLOCK if ESCAPE is pressed.
+- Bind Capslock + HJKL to arrow keys. 
 
 ## Usage
 ### Windows 
