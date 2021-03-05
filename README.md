@@ -7,13 +7,13 @@ Make Capslock Great Again!
 - macOS with [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 
 ## Features
-- Post Escape if Capslock is pressed. 
-- Post Capslock if Escape is pressed.
-- Bind Capslock + HJKL to arrow keys. 
+- Post `Escape` if `Capslock` is pressed. 
+- Post `Capslock` if `Escape` is pressed.
+- Bind `Capslock + HJKL` to arrow keys. 
 
 ## Usage
 ### Windows 
-> Running the script with administrator privileges is  recommended, which means you can use the feature in all programs.
+> Running the script with administrator privileges is  recommended, which means you can use the features in all programs.
 > 
 Run `SuperCaps.ahk` with [AutoHotkey](https://www.autohotkey.com/). You can also compile the script and use `SuperCaps.exe`.
 
